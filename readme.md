@@ -30,7 +30,7 @@ A sleek and responsive web application to search for GitHub users and view their
 ## 📸 Preview
 
 <!-- Add live site link or gif preview here if available -->
-[Live Demo](https://your-live-link.netlify.app) <!-- Replace with actual live link -->
+[Live Demo](https://githubuserfinder-project.netlify.app/) <!-- Replace with actual live link -->
 
 ---
 
